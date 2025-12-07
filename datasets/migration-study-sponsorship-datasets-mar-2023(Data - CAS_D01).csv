@@ -1,0 +1,664 @@
+Year,Quarter,Type of application,Institution type group,Institution type,Applications
+2010,2010 Q1,Visa,Higher Education institution,Russell Group Universities,364
+2010,2010 Q1,Visa,Higher Education institution,Non Russell Group Universities,741
+2010,2010 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","2,645"
+2010,2010 Q1,Visa,All other institutions,English language school,"2,632"
+2010,2010 Q1,Visa,All other institutions,Independent school,325
+2010,2010 Q1,Visa,All other institutions,Other,388
+2010,2010 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,211
+2010,2010 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,450
+2010,2010 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",677
+2010,2010 Q1,Extensions of stay,All other institutions,English language school,345
+2010,2010 Q1,Extensions of stay,All other institutions,Independent school,55
+2010,2010 Q1,Extensions of stay,All other institutions,Other,38
+2010,2010 Q2,Visa,Higher Education institution,Russell Group Universities,"4,735"
+2010,2010 Q2,Visa,Higher Education institution,Non Russell Group Universities,"8,751"
+2010,2010 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","11,042"
+2010,2010 Q2,Visa,All other institutions,English language school,"4,879"
+2010,2010 Q2,Visa,All other institutions,Independent school,"2,132"
+2010,2010 Q2,Visa,All other institutions,Other,"1,818"
+2010,2010 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,"1,122"
+2010,2010 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,951"
+2010,2010 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","7,909"
+2010,2010 Q2,Extensions of stay,All other institutions,English language school,"2,032"
+2010,2010 Q2,Extensions of stay,All other institutions,Independent school,315
+2010,2010 Q2,Extensions of stay,All other institutions,Other,622
+2010,2010 Q3,Visa,Higher Education institution,Russell Group Universities,"45,776"
+2010,2010 Q3,Visa,Higher Education institution,Non Russell Group Universities,"67,467"
+2010,2010 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","28,307"
+2010,2010 Q3,Visa,All other institutions,English language school,"6,427"
+2010,2010 Q3,Visa,All other institutions,Independent school,"9,456"
+2010,2010 Q3,Visa,All other institutions,Other,"2,988"
+2010,2010 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"2,142"
+2010,2010 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"6,641"
+2010,2010 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","9,733"
+2010,2010 Q3,Extensions of stay,All other institutions,English language school,"1,994"
+2010,2010 Q3,Extensions of stay,All other institutions,Independent school,537
+2010,2010 Q3,Extensions of stay,All other institutions,Other,737
+2010,2010 Q4,Visa,Higher Education institution,Russell Group Universities,"3,645"
+2010,2010 Q4,Visa,Higher Education institution,Non Russell Group Universities,"11,698"
+2010,2010 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","23,398"
+2010,2010 Q4,Visa,All other institutions,English language school,"5,315"
+2010,2010 Q4,Visa,All other institutions,Independent school,"2,566"
+2010,2010 Q4,Visa,All other institutions,Other,"1,672"
+2010,2010 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"9,629"
+2010,2010 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"19,141"
+2010,2010 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","12,228"
+2010,2010 Q4,Extensions of stay,All other institutions,English language school,"1,953"
+2010,2010 Q4,Extensions of stay,All other institutions,Independent school,947
+2010,2010 Q4,Extensions of stay,All other institutions,Other,821
+2011,2011 Q1,Visa,Higher Education institution,Russell Group Universities,"2,295"
+2011,2011 Q1,Visa,Higher Education institution,Non Russell Group Universities,"10,312"
+2011,2011 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","35,969"
+2011,2011 Q1,Visa,All other institutions,English language school,"5,749"
+2011,2011 Q1,Visa,All other institutions,Independent school,"2,474"
+2011,2011 Q1,Visa,All other institutions,Other,"2,127"
+2011,2011 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"3,563"
+2011,2011 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"10,148"
+2011,2011 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","17,257"
+2011,2011 Q1,Extensions of stay,All other institutions,English language school,"2,288"
+2011,2011 Q1,Extensions of stay,All other institutions,Independent school,580
+2011,2011 Q1,Extensions of stay,All other institutions,Other,"1,262"
+2011,2011 Q2,Visa,Higher Education institution,Russell Group Universities,"7,166"
+2011,2011 Q2,Visa,Higher Education institution,Non Russell Group Universities,"12,850"
+2011,2011 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","25,889"
+2011,2011 Q2,Visa,All other institutions,English language school,"3,077"
+2011,2011 Q2,Visa,All other institutions,Independent school,"2,902"
+2011,2011 Q2,Visa,All other institutions,Other,"1,894"
+2011,2011 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,"1,066"
+2011,2011 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,819"
+2011,2011 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","10,337"
+2011,2011 Q2,Extensions of stay,All other institutions,English language school,"1,307"
+2011,2011 Q2,Extensions of stay,All other institutions,Independent school,375
+2011,2011 Q2,Extensions of stay,All other institutions,Other,860
+2011,2011 Q3,Visa,Higher Education institution,Russell Group Universities,"45,736"
+2011,2011 Q3,Visa,Higher Education institution,Non Russell Group Universities,"60,932"
+2011,2011 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","15,115"
+2011,2011 Q3,Visa,All other institutions,English language school,"1,803"
+2011,2011 Q3,Visa,All other institutions,Independent school,"9,002"
+2011,2011 Q3,Visa,All other institutions,Other,"1,758"
+2011,2011 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"2,077"
+2011,2011 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"5,525"
+2011,2011 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","7,888"
+2011,2011 Q3,Extensions of stay,All other institutions,English language school,720
+2011,2011 Q3,Extensions of stay,All other institutions,Independent school,449
+2011,2011 Q3,Extensions of stay,All other institutions,Other,393
+2011,2011 Q4,Visa,Higher Education institution,Russell Group Universities,"3,033"
+2011,2011 Q4,Visa,Higher Education institution,Non Russell Group Universities,"10,212"
+2011,2011 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","7,020"
+2011,2011 Q4,Visa,All other institutions,English language school,847
+2011,2011 Q4,Visa,All other institutions,Independent school,"1,791"
+2011,2011 Q4,Visa,All other institutions,Other,731
+2011,2011 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"10,551"
+2011,2011 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"19,182"
+2011,2011 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","5,784"
+2011,2011 Q4,Extensions of stay,All other institutions,English language school,605
+2011,2011 Q4,Extensions of stay,All other institutions,Independent school,751
+2011,2011 Q4,Extensions of stay,All other institutions,Other,483
+2012,2012 Q1,Visa,Higher Education institution,Russell Group Universities,"1,888"
+2012,2012 Q1,Visa,Higher Education institution,Non Russell Group Universities,"8,373"
+2012,2012 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","6,684"
+2012,2012 Q1,Visa,All other institutions,English language school,743
+2012,2012 Q1,Visa,All other institutions,Independent school,"1,142"
+2012,2012 Q1,Visa,All other institutions,Other,500
+2012,2012 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"3,384"
+2012,2012 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"8,562"
+2012,2012 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","7,555"
+2012,2012 Q1,Extensions of stay,All other institutions,English language school,650
+2012,2012 Q1,Extensions of stay,All other institutions,Independent school,592
+2012,2012 Q1,Extensions of stay,All other institutions,Other,526
+2012,2012 Q2,Visa,Higher Education institution,Russell Group Universities,"8,904"
+2012,2012 Q2,Visa,Higher Education institution,Non Russell Group Universities,"15,103"
+2012,2012 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","6,504"
+2012,2012 Q2,Visa,All other institutions,English language school,682
+2012,2012 Q2,Visa,All other institutions,Independent school,"2,238"
+2012,2012 Q2,Visa,All other institutions,Other,949
+2012,2012 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,"1,168"
+2012,2012 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"4,171"
+2012,2012 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","5,496"
+2012,2012 Q2,Extensions of stay,All other institutions,English language school,414
+2012,2012 Q2,Extensions of stay,All other institutions,Independent school,395
+2012,2012 Q2,Extensions of stay,All other institutions,Other,313
+2012,2012 Q3,Visa,Higher Education institution,Russell Group Universities,"47,462"
+2012,2012 Q3,Visa,Higher Education institution,Non Russell Group Universities,"60,901"
+2012,2012 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","13,472"
+2012,2012 Q3,Visa,All other institutions,English language school,"1,478"
+2012,2012 Q3,Visa,All other institutions,Independent school,"8,917"
+2012,2012 Q3,Visa,All other institutions,Other,"1,416"
+2012,2012 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"1,631"
+2012,2012 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"4,403"
+2012,2012 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","8,123"
+2012,2012 Q3,Extensions of stay,All other institutions,English language school,415
+2012,2012 Q3,Extensions of stay,All other institutions,Independent school,505
+2012,2012 Q3,Extensions of stay,All other institutions,Other,352
+2012,2012 Q4,Visa,Higher Education institution,Russell Group Universities,"3,220"
+2012,2012 Q4,Visa,Higher Education institution,Non Russell Group Universities,"10,776"
+2012,2012 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","5,746"
+2012,2012 Q4,Visa,All other institutions,English language school,686
+2012,2012 Q4,Visa,All other institutions,Independent school,"1,640"
+2012,2012 Q4,Visa,All other institutions,Other,683
+2012,2012 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"8,657"
+2012,2012 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"14,157"
+2012,2012 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","7,036"
+2012,2012 Q4,Extensions of stay,All other institutions,English language school,280
+2012,2012 Q4,Extensions of stay,All other institutions,Independent school,653
+2012,2012 Q4,Extensions of stay,All other institutions,Other,284
+2013,2013 Q1,Visa,Higher Education institution,Russell Group Universities,"1,990"
+2013,2013 Q1,Visa,Higher Education institution,Non Russell Group Universities,"8,981"
+2013,2013 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","3,910"
+2013,2013 Q1,Visa,All other institutions,English language school,624
+2013,2013 Q1,Visa,All other institutions,Independent school,"1,003"
+2013,2013 Q1,Visa,All other institutions,Other,463
+2013,2013 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"5,437"
+2013,2013 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"14,738"
+2013,2013 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","9,715"
+2013,2013 Q1,Extensions of stay,All other institutions,English language school,512
+2013,2013 Q1,Extensions of stay,All other institutions,Independent school,750
+2013,2013 Q1,Extensions of stay,All other institutions,Other,497
+2013,2013 Q2,Visa,Higher Education institution,Russell Group Universities,"10,427"
+2013,2013 Q2,Visa,Higher Education institution,Non Russell Group Universities,"16,074"
+2013,2013 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","3,250"
+2013,2013 Q2,Visa,All other institutions,English language school,635
+2013,2013 Q2,Visa,All other institutions,Independent school,"2,218"
+2013,2013 Q2,Visa,All other institutions,Other,897
+2013,2013 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,898
+2013,2013 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,502"
+2013,2013 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","7,890"
+2013,2013 Q2,Extensions of stay,All other institutions,English language school,231
+2013,2013 Q2,Extensions of stay,All other institutions,Independent school,518
+2013,2013 Q2,Extensions of stay,All other institutions,Other,376
+2013,2013 Q3,Visa,Higher Education institution,Russell Group Universities,"52,613"
+2013,2013 Q3,Visa,Higher Education institution,Non Russell Group Universities,"63,174"
+2013,2013 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","10,239"
+2013,2013 Q3,Visa,All other institutions,English language school,"1,501"
+2013,2013 Q3,Visa,All other institutions,Independent school,"8,902"
+2013,2013 Q3,Visa,All other institutions,Other,"1,442"
+2013,2013 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"2,220"
+2013,2013 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"5,711"
+2013,2013 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","6,697"
+2013,2013 Q3,Extensions of stay,All other institutions,English language school,218
+2013,2013 Q3,Extensions of stay,All other institutions,Independent school,476
+2013,2013 Q3,Extensions of stay,All other institutions,Other,649
+2013,2013 Q4,Visa,Higher Education institution,Russell Group Universities,"3,394"
+2013,2013 Q4,Visa,Higher Education institution,Non Russell Group Universities,"11,337"
+2013,2013 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","4,044"
+2013,2013 Q4,Visa,All other institutions,English language school,772
+2013,2013 Q4,Visa,All other institutions,Independent school,"1,494"
+2013,2013 Q4,Visa,All other institutions,Other,715
+2013,2013 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"13,575"
+2013,2013 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"23,019"
+2013,2013 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","8,713"
+2013,2013 Q4,Extensions of stay,All other institutions,English language school,302
+2013,2013 Q4,Extensions of stay,All other institutions,Independent school,795
+2013,2013 Q4,Extensions of stay,All other institutions,Other,590
+2014,2014 Q1,Visa,Higher Education institution,Russell Group Universities,"2,058"
+2014,2014 Q1,Visa,Higher Education institution,Non Russell Group Universities,"8,988"
+2014,2014 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","3,005"
+2014,2014 Q1,Visa,All other institutions,English language school,507
+2014,2014 Q1,Visa,All other institutions,Independent school,878
+2014,2014 Q1,Visa,All other institutions,Other,438
+2014,2014 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"2,263"
+2014,2014 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"7,272"
+2014,2014 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","5,703"
+2014,2014 Q1,Extensions of stay,All other institutions,English language school,182
+2014,2014 Q1,Extensions of stay,All other institutions,Independent school,242
+2014,2014 Q1,Extensions of stay,All other institutions,Other,254
+2014,2014 Q2,Visa,Higher Education institution,Russell Group Universities,"10,168"
+2014,2014 Q2,Visa,Higher Education institution,Non Russell Group Universities,"15,367"
+2014,2014 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","2,518"
+2014,2014 Q2,Visa,All other institutions,English language school,510
+2014,2014 Q2,Visa,All other institutions,Independent school,"1,817"
+2014,2014 Q2,Visa,All other institutions,Other,840
+2014,2014 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,865
+2014,2014 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,215"
+2014,2014 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","4,024"
+2014,2014 Q2,Extensions of stay,All other institutions,English language school,126
+2014,2014 Q2,Extensions of stay,All other institutions,Independent school,201
+2014,2014 Q2,Extensions of stay,All other institutions,Other,228
+2014,2014 Q3,Visa,Higher Education institution,Russell Group Universities,"55,687"
+2014,2014 Q3,Visa,Higher Education institution,Non Russell Group Universities,"64,065"
+2014,2014 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","10,469"
+2014,2014 Q3,Visa,All other institutions,English language school,"1,613"
+2014,2014 Q3,Visa,All other institutions,Independent school,"9,851"
+2014,2014 Q3,Visa,All other institutions,Other,"1,257"
+2014,2014 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"3,019"
+2014,2014 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"4,839"
+2014,2014 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","1,770"
+2014,2014 Q3,Extensions of stay,All other institutions,English language school,99
+2014,2014 Q3,Extensions of stay,All other institutions,Independent school,304
+2014,2014 Q3,Extensions of stay,All other institutions,Other,93
+2014,2014 Q4,Visa,Higher Education institution,Russell Group Universities,"3,059"
+2014,2014 Q4,Visa,Higher Education institution,Non Russell Group Universities,"9,169"
+2014,2014 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","3,372"
+2014,2014 Q4,Visa,All other institutions,English language school,721
+2014,2014 Q4,Visa,All other institutions,Independent school,"1,488"
+2014,2014 Q4,Visa,All other institutions,Other,576
+2014,2014 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"14,208"
+2014,2014 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"19,990"
+2014,2014 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","3,001"
+2014,2014 Q4,Extensions of stay,All other institutions,English language school,230
+2014,2014 Q4,Extensions of stay,All other institutions,Independent school,761
+2014,2014 Q4,Extensions of stay,All other institutions,Other,154
+2015,2015 Q1,Visa,Higher Education institution,Russell Group Universities,"1,862"
+2015,2015 Q1,Visa,Higher Education institution,Non Russell Group Universities,"7,103"
+2015,2015 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","1,938"
+2015,2015 Q1,Visa,All other institutions,English language school,491
+2015,2015 Q1,Visa,All other institutions,Independent school,828
+2015,2015 Q1,Visa,All other institutions,Other,358
+2015,2015 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"1,929"
+2015,2015 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"5,724"
+2015,2015 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","2,161"
+2015,2015 Q1,Extensions of stay,All other institutions,English language school,177
+2015,2015 Q1,Extensions of stay,All other institutions,Independent school,191
+2015,2015 Q1,Extensions of stay,All other institutions,Other,47
+2015,2015 Q2,Visa,Higher Education institution,Russell Group Universities,"12,039"
+2015,2015 Q2,Visa,Higher Education institution,Non Russell Group Universities,"14,440"
+2015,2015 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","1,393"
+2015,2015 Q2,Visa,All other institutions,English language school,420
+2015,2015 Q2,Visa,All other institutions,Independent school,"1,630"
+2015,2015 Q2,Visa,All other institutions,Other,696
+2015,2015 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,880
+2015,2015 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"2,261"
+2015,2015 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges","1,146"
+2015,2015 Q2,Extensions of stay,All other institutions,English language school,97
+2015,2015 Q2,Extensions of stay,All other institutions,Independent school,152
+2015,2015 Q2,Extensions of stay,All other institutions,Other,83
+2015,2015 Q3,Visa,Higher Education institution,Russell Group Universities,"58,918"
+2015,2015 Q3,Visa,Higher Education institution,Non Russell Group Universities,"61,622"
+2015,2015 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","9,485"
+2015,2015 Q3,Visa,All other institutions,English language school,"1,429"
+2015,2015 Q3,Visa,All other institutions,Independent school,"9,820"
+2015,2015 Q3,Visa,All other institutions,Other,"1,280"
+2015,2015 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"2,928"
+2015,2015 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"4,674"
+2015,2015 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",913
+2015,2015 Q3,Extensions of stay,All other institutions,English language school,78
+2015,2015 Q3,Extensions of stay,All other institutions,Independent school,274
+2015,2015 Q3,Extensions of stay,All other institutions,Other,40
+2015,2015 Q4,Visa,Higher Education institution,Russell Group Universities,"2,809"
+2015,2015 Q4,Visa,Higher Education institution,Non Russell Group Universities,"7,560"
+2015,2015 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","3,165"
+2015,2015 Q4,Visa,All other institutions,English language school,590
+2015,2015 Q4,Visa,All other institutions,Independent school,"1,396"
+2015,2015 Q4,Visa,All other institutions,Other,476
+2015,2015 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"14,381"
+2015,2015 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"16,794"
+2015,2015 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",653
+2015,2015 Q4,Extensions of stay,All other institutions,English language school,117
+2015,2015 Q4,Extensions of stay,All other institutions,Independent school,568
+2015,2015 Q4,Extensions of stay,All other institutions,Other,44
+2016,2016 Q1,Visa,Higher Education institution,Russell Group Universities,"1,637"
+2016,2016 Q1,Visa,Higher Education institution,Non Russell Group Universities,"5,094"
+2016,2016 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","1,464"
+2016,2016 Q1,Visa,All other institutions,English language school,230
+2016,2016 Q1,Visa,All other institutions,Independent school,720
+2016,2016 Q1,Visa,All other institutions,Other,167
+2016,2016 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"1,519"
+2016,2016 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,995"
+2016,2016 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",316
+2016,2016 Q1,Extensions of stay,All other institutions,English language school,12
+2016,2016 Q1,Extensions of stay,All other institutions,Independent school,95
+2016,2016 Q1,Extensions of stay,All other institutions,Other,11
+2016,2016 Q2,Visa,Higher Education institution,Russell Group Universities,"12,661"
+2016,2016 Q2,Visa,Higher Education institution,Non Russell Group Universities,"13,032"
+2016,2016 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","1,734"
+2016,2016 Q2,Visa,All other institutions,English language school,196
+2016,2016 Q2,Visa,All other institutions,Independent school,"1,783"
+2016,2016 Q2,Visa,All other institutions,Other,706
+2016,2016 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,732
+2016,2016 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"1,547"
+2016,2016 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",65
+2016,2016 Q2,Extensions of stay,All other institutions,English language school,5
+2016,2016 Q2,Extensions of stay,All other institutions,Independent school,60
+2016,2016 Q2,Extensions of stay,All other institutions,Other,6
+2016,2016 Q3,Visa,Higher Education institution,Russell Group Universities,"63,083"
+2016,2016 Q3,Visa,Higher Education institution,Non Russell Group Universities,"61,320"
+2016,2016 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","8,462"
+2016,2016 Q3,Visa,All other institutions,English language school,"1,776"
+2016,2016 Q3,Visa,All other institutions,Independent school,"9,441"
+2016,2016 Q3,Visa,All other institutions,Other,"1,139"
+2016,2016 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"2,243"
+2016,2016 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"2,963"
+2016,2016 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",212
+2016,2016 Q3,Extensions of stay,All other institutions,English language school,5
+2016,2016 Q3,Extensions of stay,All other institutions,Independent school,210
+2016,2016 Q3,Extensions of stay,All other institutions,Other,23
+2016,2016 Q4,Visa,Higher Education institution,Russell Group Universities,"2,978"
+2016,2016 Q4,Visa,Higher Education institution,Non Russell Group Universities,"7,742"
+2016,2016 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","2,926"
+2016,2016 Q4,Visa,All other institutions,English language school,626
+2016,2016 Q4,Visa,All other institutions,Independent school,"1,430"
+2016,2016 Q4,Visa,All other institutions,Other,493
+2016,2016 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"11,514"
+2016,2016 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"11,480"
+2016,2016 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",210
+2016,2016 Q4,Extensions of stay,All other institutions,English language school,19
+2016,2016 Q4,Extensions of stay,All other institutions,Independent school,498
+2016,2016 Q4,Extensions of stay,All other institutions,Other,20
+2017,2017 Q1,Visa,Higher Education institution,Russell Group Universities,"1,940"
+2017,2017 Q1,Visa,Higher Education institution,Non Russell Group Universities,"5,834"
+2017,2017 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","1,411"
+2017,2017 Q1,Visa,All other institutions,English language school,357
+2017,2017 Q1,Visa,All other institutions,Independent school,725
+2017,2017 Q1,Visa,All other institutions,Other,245
+2017,2017 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"1,751"
+2017,2017 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,380"
+2017,2017 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",135
+2017,2017 Q1,Extensions of stay,All other institutions,English language school,9
+2017,2017 Q1,Extensions of stay,All other institutions,Independent school,122
+2017,2017 Q1,Extensions of stay,All other institutions,Other,13
+2017,2017 Q2,Visa,Higher Education institution,Russell Group Universities,"14,519"
+2017,2017 Q2,Visa,Higher Education institution,Non Russell Group Universities,"13,513"
+2017,2017 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","1,645"
+2017,2017 Q2,Visa,All other institutions,English language school,181
+2017,2017 Q2,Visa,All other institutions,Independent school,"1,299"
+2017,2017 Q2,Visa,All other institutions,Other,730
+2017,2017 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,627
+2017,2017 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,946
+2017,2017 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",59
+2017,2017 Q2,Extensions of stay,All other institutions,English language school,2
+2017,2017 Q2,Extensions of stay,All other institutions,Independent school,64
+2017,2017 Q2,Extensions of stay,All other institutions,Other,8
+2017,2017 Q3,Visa,Higher Education institution,Russell Group Universities,"67,920"
+2017,2017 Q3,Visa,Higher Education institution,Non Russell Group Universities,"63,504"
+2017,2017 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","8,296"
+2017,2017 Q3,Visa,All other institutions,English language school,"2,591"
+2017,2017 Q3,Visa,All other institutions,Independent school,"10,332"
+2017,2017 Q3,Visa,All other institutions,Other,"1,132"
+2017,2017 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"3,330"
+2017,2017 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,525"
+2017,2017 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",229
+2017,2017 Q3,Extensions of stay,All other institutions,English language school,13
+2017,2017 Q3,Extensions of stay,All other institutions,Independent school,248
+2017,2017 Q3,Extensions of stay,All other institutions,Other,23
+2017,2017 Q4,Visa,Higher Education institution,Russell Group Universities,"2,855"
+2017,2017 Q4,Visa,Higher Education institution,Non Russell Group Universities,"7,685"
+2017,2017 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","2,901"
+2017,2017 Q4,Visa,All other institutions,English language school,833
+2017,2017 Q4,Visa,All other institutions,Independent school,"1,379"
+2017,2017 Q4,Visa,All other institutions,Other,465
+2017,2017 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"13,645"
+2017,2017 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"12,381"
+2017,2017 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",236
+2017,2017 Q4,Extensions of stay,All other institutions,English language school,58
+2017,2017 Q4,Extensions of stay,All other institutions,Independent school,481
+2017,2017 Q4,Extensions of stay,All other institutions,Other,17
+2018,2018 Q1,Visa,Higher Education institution,Russell Group Universities,"1,880"
+2018,2018 Q1,Visa,Higher Education institution,Non Russell Group Universities,"6,732"
+2018,2018 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","1,609"
+2018,2018 Q1,Visa,All other institutions,English language school,378
+2018,2018 Q1,Visa,All other institutions,Independent school,646
+2018,2018 Q1,Visa,All other institutions,Other,247
+2018,2018 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"1,445"
+2018,2018 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"2,552"
+2018,2018 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",186
+2018,2018 Q1,Extensions of stay,All other institutions,English language school,12
+2018,2018 Q1,Extensions of stay,All other institutions,Independent school,112
+2018,2018 Q1,Extensions of stay,All other institutions,Other,3
+2018,2018 Q2,Visa,Higher Education institution,Russell Group Universities,"17,280"
+2018,2018 Q2,Visa,Higher Education institution,Non Russell Group Universities,"14,343"
+2018,2018 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","1,483"
+2018,2018 Q2,Visa,All other institutions,English language school,248
+2018,2018 Q2,Visa,All other institutions,Independent school,"1,709"
+2018,2018 Q2,Visa,All other institutions,Other,612
+2018,2018 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,684
+2018,2018 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"1,115"
+2018,2018 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",55
+2018,2018 Q2,Extensions of stay,All other institutions,English language school,1
+2018,2018 Q2,Extensions of stay,All other institutions,Independent school,52
+2018,2018 Q2,Extensions of stay,All other institutions,Other,88
+2018,2018 Q3,Visa,Higher Education institution,Russell Group Universities,"74,634"
+2018,2018 Q3,Visa,Higher Education institution,Non Russell Group Universities,"68,734"
+2018,2018 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","8,512"
+2018,2018 Q3,Visa,All other institutions,English language school,"3,028"
+2018,2018 Q3,Visa,All other institutions,Independent school,"9,572"
+2018,2018 Q3,Visa,All other institutions,Other,950
+2018,2018 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"3,159"
+2018,2018 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,002"
+2018,2018 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",181
+2018,2018 Q3,Extensions of stay,All other institutions,English language school,24
+2018,2018 Q3,Extensions of stay,All other institutions,Independent school,195
+2018,2018 Q3,Extensions of stay,All other institutions,Other,15
+2018,2018 Q4,Visa,Higher Education institution,Russell Group Universities,"2,797"
+2018,2018 Q4,Visa,Higher Education institution,Non Russell Group Universities,"8,459"
+2018,2018 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","3,153"
+2018,2018 Q4,Visa,All other institutions,English language school,869
+2018,2018 Q4,Visa,All other institutions,Independent school,"1,187"
+2018,2018 Q4,Visa,All other institutions,Other,424
+2018,2018 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"15,402"
+2018,2018 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"11,181"
+2018,2018 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",241
+2018,2018 Q4,Extensions of stay,All other institutions,English language school,20
+2018,2018 Q4,Extensions of stay,All other institutions,Independent school,538
+2018,2018 Q4,Extensions of stay,All other institutions,Other,23
+2019,2019 Q1,Visa,Higher Education institution,Russell Group Universities,"1,867"
+2019,2019 Q1,Visa,Higher Education institution,Non Russell Group Universities,"8,236"
+2019,2019 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","1,719"
+2019,2019 Q1,Visa,All other institutions,English language school,371
+2019,2019 Q1,Visa,All other institutions,Independent school,652
+2019,2019 Q1,Visa,All other institutions,Other,260
+2019,2019 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"1,406"
+2019,2019 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"2,426"
+2019,2019 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",221
+2019,2019 Q1,Extensions of stay,All other institutions,English language school,21
+2019,2019 Q1,Extensions of stay,All other institutions,Independent school,70
+2019,2019 Q1,Extensions of stay,All other institutions,Other,12
+2019,2019 Q2,Visa,Higher Education institution,Russell Group Universities,"21,524"
+2019,2019 Q2,Visa,Higher Education institution,Non Russell Group Universities,"15,670"
+2019,2019 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","1,399"
+2019,2019 Q2,Visa,All other institutions,English language school,394
+2019,2019 Q2,Visa,All other institutions,Independent school,"1,684"
+2019,2019 Q2,Visa,All other institutions,Other,586
+2019,2019 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,617
+2019,2019 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"1,037"
+2019,2019 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",94
+2019,2019 Q2,Extensions of stay,All other institutions,English language school,18
+2019,2019 Q2,Extensions of stay,All other institutions,Independent school,76
+2019,2019 Q2,Extensions of stay,All other institutions,Other,8
+2019,2019 Q3,Visa,Higher Education institution,Russell Group Universities,"82,925"
+2019,2019 Q3,Visa,Higher Education institution,Non Russell Group Universities,"80,569"
+2019,2019 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","6,952"
+2019,2019 Q3,Visa,All other institutions,English language school,"5,946"
+2019,2019 Q3,Visa,All other institutions,Independent school,"10,127"
+2019,2019 Q3,Visa,All other institutions,Other,"1,017"
+2019,2019 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"3,547"
+2019,2019 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"2,639"
+2019,2019 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",143
+2019,2019 Q3,Extensions of stay,All other institutions,English language school,69
+2019,2019 Q3,Extensions of stay,All other institutions,Independent school,211
+2019,2019 Q3,Extensions of stay,All other institutions,Other,22
+2019,2019 Q4,Unknown,All other institutions,English language school,"2,212"
+2019,2019 Q4,Unknown,All other institutions,Independent School,"1,540"
+2019,2019 Q4,Unknown,All other institutions,Other,461
+2019,2019 Q4,Unknown,All other institutions,"Tertiary, Further education or other colleges","2,312"
+2019,2019 Q4,Unknown,Higher Education institution,Non Russell Group Universities,"23,043"
+2019,2019 Q4,Unknown,Higher Education institution,Russell Group Universities,"19,649"
+2019,2019 Q4,Unknown,All other institutions,English language school,246
+2019,2019 Q4,Unknown,All other institutions,Independent School,165
+2019,2019 Q4,Unknown,All other institutions,Other,74
+2019,2019 Q4,Unknown,All other institutions,"Tertiary, Further education or other colleges",355
+2019,2019 Q4,Unknown,Higher Education institution,Non Russell Group Universities,"3,163"
+2019,2019 Q4,Unknown,Higher Education institution,Russell Group Universities,640
+2020,2020 Q1,Unknown,All other institutions,English language school,583
+2020,2020 Q1,Unknown,All other institutions,Independent School,258
+2020,2020 Q1,Unknown,All other institutions,Other,114
+2020,2020 Q1,Unknown,All other institutions,"Tertiary, Further education or other colleges",582
+2020,2020 Q1,Unknown,Higher Education institution,Non Russell Group Universities,"9,481"
+2020,2020 Q1,Unknown,Higher Education institution,Russell Group Universities,"1,491"
+2020,2020 Q1,Unknown,All other institutions,English language school,869
+2020,2020 Q1,Unknown,All other institutions,Independent School,384
+2020,2020 Q1,Unknown,All other institutions,Other,131
+2020,2020 Q1,Unknown,All other institutions,"Tertiary, Further education or other colleges",648
+2020,2020 Q1,Unknown,Higher Education institution,Non Russell Group Universities,"12,861"
+2020,2020 Q1,Unknown,Higher Education institution,Russell Group Universities,"1,320"
+2020,2020 Q1,Unknown,Higher Education institution,Non Russell Group Universities,1
+2020,2020 Q2,Unknown,All other institutions,Independent School,1
+2020,2020 Q2,Unknown,All other institutions,"Tertiary, Further education or other colleges",2
+2020,2020 Q2,Unknown,Higher Education institution,Non Russell Group Universities,117
+2020,2020 Q2,Unknown,Higher Education institution,Russell Group Universities,67
+2020,2020 Q2,Unknown,All other institutions,Independent School,421
+2020,2020 Q2,Unknown,All other institutions,Other,22
+2020,2020 Q2,Unknown,All other institutions,"Tertiary, Further education or other colleges",7
+2020,2020 Q2,Unknown,Higher Education institution,Non Russell Group Universities,204
+2020,2020 Q2,Unknown,Higher Education institution,Russell Group Universities,108
+2020,2020 Q3,Unknown,All other institutions,English language school,18
+2020,2020 Q3,Unknown,All other institutions,Independent School,175
+2020,2020 Q3,Unknown,All other institutions,Other,17
+2020,2020 Q3,Unknown,All other institutions,"Tertiary, Further education or other colleges",86
+2020,2020 Q3,Unknown,Higher Education institution,Non Russell Group Universities,"1,753"
+2020,2020 Q3,Unknown,Higher Education institution,Russell Group Universities,"1,247"
+2020,2020 Q3,Unknown,All other institutions,English language school,51
+2020,2020 Q3,Unknown,All other institutions,Independent School,"3,008"
+2020,2020 Q3,Unknown,All other institutions,Other,166
+2020,2020 Q3,Unknown,All other institutions,"Tertiary, Further education or other colleges",148
+2020,2020 Q3,Unknown,Higher Education institution,Non Russell Group Universities,"1,631"
+2020,2020 Q3,Unknown,Higher Education institution,Russell Group Universities,"1,607"
+2020,2020 Q3,Unknown,All other institutions,English language school,"1,245"
+2020,2020 Q3,Unknown,All other institutions,Independent School,"3,374"
+2020,2020 Q3,Unknown,All other institutions,Other,257
+2020,2020 Q3,Unknown,All other institutions,"Tertiary, Further education or other colleges","1,805"
+2020,2020 Q3,Unknown,Higher Education institution,Non Russell Group Universities,"43,676"
+2020,2020 Q3,Unknown,Higher Education institution,Russell Group Universities,"53,855"
+2020,2020 Q4,Extensions of stay,All other institutions,English language school,91
+2020,2020 Q4,Extensions of stay,All other institutions,Independent School,753
+2020,2020 Q4,Extensions of stay,All other institutions,Other,51
+2020,2020 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",401
+2020,2020 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"9,150"
+2020,2020 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"7,898"
+2020,2020 Q4,Unknown,Higher Education institution,Non Russell Group Universities,5
+2020,2020 Q4,Unknown,Higher Education institution,Russell Group Universities,2
+2020,2020 Q4,Visa,All other institutions,English language school,"1,452"
+2020,2020 Q4,Visa,All other institutions,Independent School,"1,217"
+2020,2020 Q4,Visa,All other institutions,Other,189
+2020,2020 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","2,039"
+2020,2020 Q4,Visa,Higher Education institution,Non Russell Group Universities,"35,279"
+2020,2020 Q4,Visa,Higher Education institution,Russell Group Universities,"30,486"
+2021,2021 Q1,Extensions of stay,All other institutions,English language school,27
+2021,2021 Q1,Extensions of stay,All other institutions,Independent School,339
+2021,2021 Q1,Extensions of stay,All other institutions,Other,42
+2021,2021 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",119
+2021,2021 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,989"
+2021,2021 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"1,728"
+2021,2021 Q1,Unknown,Higher Education institution,Non Russell Group Universities,11
+2021,2021 Q1,Visa,All other institutions,English language school,918
+2021,2021 Q1,Visa,All other institutions,Independent School,"1,119"
+2021,2021 Q1,Visa,All other institutions,Other,99
+2021,2021 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","1,055"
+2021,2021 Q1,Visa,Higher Education institution,Non Russell Group Universities,"28,605"
+2021,2021 Q1,Visa,Higher Education institution,Russell Group Universities,"4,904"
+2021,2021 Q2,Extensions of stay,All other institutions,English language school,14
+2021,2021 Q2,Extensions of stay,All other institutions,Independent School,180
+2021,2021 Q2,Extensions of stay,All other institutions,Other,23
+2021,2021 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",51
+2021,2021 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"2,367"
+2021,2021 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,788
+2021,2021 Q2,Unknown,Higher Education institution,Non Russell Group Universities,1
+2021,2021 Q2,Visa,All other institutions,English language school,371
+2021,2021 Q2,Visa,All other institutions,Independent School,"2,492"
+2021,2021 Q2,Visa,All other institutions,Other,387
+2021,2021 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges",882
+2021,2021 Q2,Visa,Higher Education institution,Non Russell Group Universities,"10,639"
+2021,2021 Q2,Visa,Higher Education institution,Russell Group Universities,"6,101"
+2021,2021 Q3,Extensions of stay,All other institutions,English language school,15
+2021,2021 Q3,Extensions of stay,All other institutions,Independent School,523
+2021,2021 Q3,Extensions of stay,All other institutions,Other,69
+2021,2021 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",262
+2021,2021 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"4,297"
+2021,2021 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"4,071"
+2021,2021 Q3,Unknown,All other institutions,Independent School,1
+2021,2021 Q3,Visa,All other institutions,English language school,"2,997"
+2021,2021 Q3,Visa,All other institutions,Independent School,"8,929"
+2021,2021 Q3,Visa,All other institutions,Other,"1,418"
+2021,2021 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","5,872"
+2021,2021 Q3,Visa,Higher Education institution,Non Russell Group Universities,"104,653"
+2021,2021 Q3,Visa,Higher Education institution,Russell Group Universities,"104,456"
+2021,2021 Q4,Extensions of stay,All other institutions,English language school,44
+2021,2021 Q4,Extensions of stay,All other institutions,Independent School,617
+2021,2021 Q4,Extensions of stay,All other institutions,Other,45
+2021,2021 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",266
+2021,2021 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"5,881"
+2021,2021 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"5,689"
+2021,2021 Q4,Unknown,Higher Education institution,Non Russell Group Universities,1
+2021,2021 Q4,Unknown,Higher Education institution,Russell Group Universities,2
+2021,2021 Q4,Visa,All other institutions,English language school,"2,550"
+2021,2021 Q4,Visa,All other institutions,Independent School,"1,370"
+2021,2021 Q4,Visa,All other institutions,Other,460
+2021,2021 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","2,801"
+2021,2021 Q4,Visa,Higher Education institution,Non Russell Group Universities,"41,213"
+2021,2021 Q4,Visa,Higher Education institution,Russell Group Universities,"15,242"
+2022,2022 Q1,Extensions of stay,All other institutions,English language school,101
+2022,2022 Q1,Extensions of stay,All other institutions,Independent School,165
+2022,2022 Q1,Extensions of stay,All other institutions,Other,52
+2022,2022 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",197
+2022,2022 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,808"
+2022,2022 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"1,879"
+2022,2022 Q1,Unknown,Higher Education institution,Non Russell Group Universities,1
+2022,2022 Q1,Visa,All other institutions,English language school,"2,230"
+2022,2022 Q1,Visa,All other institutions,Independent School,"1,016"
+2022,2022 Q1,Visa,All other institutions,Other,268
+2022,2022 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","2,006"
+2022,2022 Q1,Visa,All other institutions,Other,1
+2022,2022 Q1,Visa,Higher Education institution,Non Russell Group Universities,"46,537"
+2022,2022 Q1,Visa,Higher Education institution,Russell Group Universities,"6,174"
+2022,2022 Q2,Extensions of stay,All other institutions,English language school,26
+2022,2022 Q2,Extensions of stay,All other institutions,Independent School,181
+2022,2022 Q2,Extensions of stay,All other institutions,Other,31
+2022,2022 Q2,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",38
+2022,2022 Q2,Extensions of stay,Higher Education institution,Non Russell Group Universities,"1,568"
+2022,2022 Q2,Extensions of stay,Higher Education institution,Russell Group Universities,887
+2022,2022 Q2,Unknown,All other institutions,English language school,1
+2022,2022 Q2,Unknown,All other institutions,"Tertiary, Further education or other colleges",1
+2022,2022 Q2,Unknown,Higher Education institution,Non Russell Group Universities,4
+2022,2022 Q2,Unknown,Higher Education institution,Russell Group Universities,4
+2022,2022 Q2,Visa,All other institutions,English language school,438
+2022,2022 Q2,Visa,All other institutions,Independent School,"3,028"
+2022,2022 Q2,Visa,All other institutions,Other,792
+2022,2022 Q2,Visa,All other institutions,"Tertiary, Further education or other colleges","1,727"
+2022,2022 Q2,Visa,Higher Education institution,Non Russell Group Universities,"22,972"
+2022,2022 Q2,Visa,Higher Education institution,Russell Group Universities,"8,702"
+2022,2022 Q3,Extensions of stay,All other institutions,English language school,77
+2022,2022 Q3,Extensions of stay,All other institutions,Independent School,836
+2022,2022 Q3,Extensions of stay,All other institutions,Other,47
+2022,2022 Q3,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",335
+2022,2022 Q3,Extensions of stay,Higher Education institution,Non Russell Group Universities,"4,530"
+2022,2022 Q3,Extensions of stay,Higher Education institution,Russell Group Universities,"7,763"
+2022,2022 Q3,Unknown,All other institutions,English language school,1
+2022,2022 Q3,Unknown,All other institutions,Independent School,1
+2022,2022 Q3,Unknown,All other institutions,"Tertiary, Further education or other colleges",3
+2022,2022 Q3,Unknown,Higher Education institution,Non Russell Group Universities,3
+2022,2022 Q3,Unknown,Higher Education institution,Russell Group Universities,6
+2022,2022 Q3,Visa,All other institutions,English language school,"4,854"
+2022,2022 Q3,Visa,All other institutions,Independent School,"8,954"
+2022,2022 Q3,Visa,All other institutions,Other,"1,744"
+2022,2022 Q3,Visa,All other institutions,"Tertiary, Further education or other colleges","9,591"
+2022,2022 Q3,Visa,Higher Education institution,Non Russell Group Universities,"161,635"
+2022,2022 Q3,Visa,Higher Education institution,Russell Group Universities,"116,355"
+2022,2022 Q4,Extensions of stay,All other institutions,English language school,99
+2022,2022 Q4,Extensions of stay,All other institutions,Independent School,945
+2022,2022 Q4,Extensions of stay,All other institutions,Other,45
+2022,2022 Q4,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",423
+2022,2022 Q4,Extensions of stay,Higher Education institution,Non Russell Group Universities,"7,833"
+2022,2022 Q4,Extensions of stay,Higher Education institution,Russell Group Universities,"11,613"
+2022,2022 Q4,Unknown,All other institutions,"Tertiary, Further education or other colleges",1
+2022,2022 Q4,Unknown,Higher Education institution,Non Russell Group Universities,6
+2022,2022 Q4,Unknown,Higher Education institution,Russell Group Universities,3
+2022,2022 Q4,Visa,All other institutions,English language school,"2,698"
+2022,2022 Q4,Visa,All other institutions,Independent School,"1,395"
+2022,2022 Q4,Visa,All other institutions,Other,490
+2022,2022 Q4,Visa,All other institutions,"Tertiary, Further education or other colleges","3,668"
+2022,2022 Q4,Visa,Higher Education institution,Non Russell Group Universities,"68,469"
+2022,2022 Q4,Visa,Higher Education institution,Russell Group Universities,"8,614"
+2023,2023 Q1,Extensions of stay,All other institutions,English language school,31
+2023,2023 Q1,Extensions of stay,All other institutions,Independent School,149
+2023,2023 Q1,Extensions of stay,All other institutions,Other,14
+2023,2023 Q1,Extensions of stay,All other institutions,"Tertiary, Further education or other colleges",75
+2023,2023 Q1,Extensions of stay,Higher Education institution,Non Russell Group Universities,"3,752"
+2023,2023 Q1,Extensions of stay,Higher Education institution,Russell Group Universities,"2,395"
+2023,2023 Q1,Unknown,Higher Education institution,Non Russell Group Universities,11
+2023,2023 Q1,Visa,All other institutions,English language school,"1,235"
+2023,2023 Q1,Visa,All other institutions,Independent School,"1,088"
+2023,2023 Q1,Visa,All other institutions,Other,426
+2023,2023 Q1,Visa,All other institutions,"Tertiary, Further education or other colleges","2,160"
+2023,2023 Q1,Visa,Higher Education institution,Non Russell Group Universities,"42,827"
+2023,2023 Q1,Visa,Higher Education institution,Russell Group Universities,"3,528"
+End of table,,,,,
